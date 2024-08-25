@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 My name is Colin, I'm an Applied Math Major from UCLA!</h2>
+<h2 align="center">👋 My name is Colin: An Applied Math Major,<br> Research Scientist, and Lab Assistant based at UCLA!</h2>
 
 ###
 
