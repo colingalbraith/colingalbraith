@@ -34,18 +34,9 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/colingalbraith/colingalbraith/output/snake.svg" alt="Snake animation" />
-
-
-###
-
 <div align="left">
   <h3>🔗 Connect with Me</h3>
-  <a href="https://colingalbraith.github.io/">Personal Website</a> | <a href="https://open.spotify.com/user/colingalbraith">Spotify</a>
+  <a href="https://colingalbraith.github.io/">Personal Website</a> | <a href="https://open.spotify.com/artist/1GM1bRnpv4kP0DhcRJkV8u">Spotify</a>
 </div>
 
 ###
