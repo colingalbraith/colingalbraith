@@ -1,4 +1,4 @@
-<h2 align="center">👋 My name is Colin: An Applied Math Major,<br> Research Scientist, and Lab Assistant based at UCLA!</h2>
+<h2 align="center">👋 Hello, my name is Colin: A CS PhD Student under Jenny Han Lin @,<br> The University of Utah</h2>
 
 ###
 
