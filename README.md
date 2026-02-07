@@ -6,7 +6,6 @@
 
 ###
 
-![Metrics](./github-metrics.svg)
 
 
 
